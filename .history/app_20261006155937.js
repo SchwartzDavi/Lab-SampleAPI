@@ -1,8 +1,0 @@
-import express from 'express';
-import { amostraRoutes } from '../routes/amostraRoutes.js';
-
-const app = express();
-
-app.use("/amostra", amostraRoutes);
-
-app.liste+n
