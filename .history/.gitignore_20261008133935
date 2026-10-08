@@ -1,0 +1,10 @@
+# Ignorar pasta de dependências
+node_modules/
+
+# Ignorar arquivos de ambiente com senhas
+.env
+
+# Ignorar arquivos temporários do sistema
+.history/
+
+
